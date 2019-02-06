@@ -1,4 +1,7 @@
 /* Собственно сам слайдер */
+body{
+     background-color: red;
+}
 .slider{
     max-width: 80%;
     position: relative;
